@@ -1,4 +1,4 @@
-# 🌱 Crop Disease Detection: YOLOv11 vs CNN-based Models
+# 🌱 Crop Disease Detection: YOLOv11 vs CNN-based Models.
 
 This project performs a comparative study of object detection and image classification techniques for crop disease identification using image data from the **PlantVillage** dataset. Specifically, it evaluates the performance of **YOLOv11** for object detection against CNN-based image classifiers — **EfficientNetB0**, **ResNet50**, and **MobileNetV2** — across 15 healthy and diseased categories for 3 common crops.
 
